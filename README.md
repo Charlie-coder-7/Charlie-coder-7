@@ -61,7 +61,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/white" alt="Express.js" width="60" />
+  <img src="https://cdn.simpleicons.org/express/white" alt="Express.js" width="40" />
 
 </p>
 
